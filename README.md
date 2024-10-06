@@ -18,6 +18,10 @@
 ## Companies
 
 <details>
+  <summary>Click me 👀</summary>
+  <br>
+
+<details>
   <summary>Adobe</summary>
 
 * [Automate and Speed Up iOS Builds with Xcode Server](https://blog.developer.adobe.com/automate-ios-builds-using-xcode-server-2e7effa8d2ef), 2021
@@ -362,6 +366,13 @@
 </details>
 
 <details>
+  <summary>Duolingo</summary>
+
+* [How we safely removed 10,000 lines of code using Emerge Tools’ Reaper](https://blog.duolingo.com/emerge-tools-reaper/), 2024
+
+</details>
+
+<details>
   <summary>eBay</summary>
 
 * [Functional iOS Testing in Swift](https://tech.ebayinc.com/engineering/functional-ios-testing-in-swift/), 2015
@@ -494,6 +505,13 @@
 </details>
 
 <details>
+  <summary>Fresco</summary>
+
+* [Our journey into mobile E2E testing](https://medium.com/@heitorcolangelo/our-journey-into-mobile-e2e-testing-0f0236122773), 2024
+
+</details>
+
+<details>
   <summary>FunCorp</summary>
 
 * [Creating Impactful Messages With Ad Testing](https://medium.com/swlh/creating-impactful-messages-with-ad-testing-d57dc631577f), 2021
@@ -583,6 +601,7 @@
 
 * [Send gitlab notification to google chat in 3 minutes](https://medium.com/gravel-engineering/send-gitlab-notification-to-google-chat-in-3-minutes-f81f6a92ac3a), 2023
 * [Manage iOS Versioning for Release with Fastlane](https://medium.com/gravel-engineering/manage-ios-versioning-for-release-with-fastlane-d660cc750abc), 2023
+* [Simplify Merge Request Description with Templates in Gitlab](https://medium.com/gravel-engineering/simplify-merge-request-description-with-templates-in-gitlab-45dca182185d), 2023
 
 </details>
 
@@ -993,6 +1012,7 @@
 * [Reddit’s E2E UI Automation Framework for Android](https://reddit.com/r/RedditEng/comments/11x5iwv/reddits_e2e_ui_automation_framework_for_android), 2023
 * [iOS: UI Testing Strategy and Tooling](https://www.reddit.com/r/RedditEng/comments/14gd9gc/ios_ui_testing_strategy_and_tooling/), 2023
 * [From Fragile to Agile: Automating the fight against Flaky Tests](https://www.reddit.com/r/RedditEng/comments/1ap4axo/from_fragile_to_agile_automating_the_fight/), 2024
+* [Modular YAML Configuration for CI](https://www.reddit.com/r/RedditEng/comments/1ekvrki/modular_yaml_configuration_for_ci/), 2024
 
 </details>
 
@@ -1061,6 +1081,7 @@
 * [Release process](https://github.com/MobileNativeFoundation/discussions/discussions/67#discussion-3277611), 2021
 * [Testing strategy](https://github.com/MobileNativeFoundation/discussions/discussions/6#discussioncomment-423251), 2021
 * [Reusing Code with React Native Packages at Shopify](https://shopify.engineering/react-native-packages-shopify), 2021
+* [Tophat: Crafting a Delightful Mobile Developer Experience](https://shopify.engineering/shopify-tophat-mobile-developer-testing), 2024
 
 </details>
 
@@ -1266,6 +1287,13 @@
 </details>
 
 <details>
+  <summary>Tinder</summary>
+
+* [Bazel Hermetic Toolchain and Tooling Migration](https://medium.com/tinder/bazel-hermetic-toolchain-and-tooling-migration-c244dc0d3ae), 2022
+
+</details>
+
+<details>
   <summary>Tokopedia</summary>
 
 * [How We Solve The Sideloading Crash After App Bundle Implementation](https://medium.com/tokopedia-engineering/how-we-solve-the-sideloading-crash-after-app-bundle-implementation-40094721b525), 2019
@@ -1297,6 +1325,14 @@
 * [A Splash of EarlGrey: UI Testing the Toptal Talent App](https://www.toptal.com/ios/google-earlgrey-testing-guide), 2020
 * [Investing in Unit Testing: Benefits and Approaches](https://www.toptal.com/unit-testing/unit-testing-benefits), 2022
 * [Unit Testing in Flutter: From Workflow Essentials to Complex Scenarios](https://www.toptal.com/flutter/unit-testing-flutter), 2022
+
+</details>
+
+<details>
+  <summary>TravelPerk</summary>
+
+* [A Primer on CircleCI](https://builders.travelperk.com/a-primer-on-circleci-a3ea86e7f2a0), 2023
+* [Tuist-ing TravelPerks iOS app for Faster Build Times](https://builders.travelperk.com/tuist-ing-travelperks-ios-app-for-faster-build-times-4796dcfa7809), 2024
 
 </details>
 
@@ -1338,6 +1374,13 @@
 
 * [iOS development and Triodos](https://www.youtube.com/watch?v=mLCvtFFimS0&t=1387s), 2024
 * [Elevating UI Tests with Network Mocking](https://www.youtube.com/watch?v=3M4DzPmsgGs), 2024
+
+</details>
+
+<details>
+  <summary>Tuist</summary>
+
+* [How Tuist migrated from GitHub Actions to Codemagic for faster and more reliable CI](https://blog.codemagic.io/how-tuist-migrated-from-github-actions-to-codemagic-for-faster-and-more-reliable-ci/), 2024
 
 </details>
 
@@ -1484,14 +1527,12 @@
 
 </details>
 
+</details>
+
 ## Sponsors
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.runway.team/?utm_campaign%3DHow%20They%20Automate%20on%20Mobile%26utm_medium%3Dgithub%26utm_source%3DHow%20They%20Automate%20on%20Mobile#gh-light-mode-only"><img src="https://testableapple.com/assets/images/runway-light.png?q=0#gh-light-mode-only" width="250px" alt="Runway Logo" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.runway.team/?utm_campaign%3DHow%20They%20Automate%20on%20Mobile%26utm_medium%3Dgithub%26utm_source%3DHow%20They%20Automate%20on%20Mobile#gh-dark-mode-only"><img src="https://testableapple.com/assets/images/runway-dark.png?q=0#gh-dark-mode-only" width="250px" alt="Runway Logo" style="max-width: 100%;"></a>
-
-The collection is proudly sponsored by [Runway](https://www.runway.team/?utm_campaign%3DHow%20They%20Automate%20on%20Mobile%26utm_medium%3Dgithub%26utm_source%3DHow%20They%20Automate%20on%20Mobile), the leading mobile release management platform that helps teams better coordinate and automate app releases.
-
-> [Support](https://github.com/sponsors/testableapple) «How They Automate on Mobile» collection on GitHub Sponsors.
 
 ## Contributors
 
